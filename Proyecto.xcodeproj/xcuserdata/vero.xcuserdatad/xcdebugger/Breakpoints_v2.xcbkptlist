@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "580F0DBD-07E7-47AE-B8EB-BA586112322B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63A4425A-21F9-4728-821A-E8DB63037E3E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoUITests/ProyectoUITestsLaunchTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "runsForEachTargetApplicationUIConfiguration"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB1F3027-C658-42BA-8A7F-790AD13FC21D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoUITests/ProyectoUITestsLaunchTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ProyectoUITestsLaunchTests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FB1F3027-C658-42BA-8A7F-790AD13FC21D - 24c37ce95267f727"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoUITests.ProyectoUITestsLaunchTests.__allocating_init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; ProyectoUITests.ProyectoUITestsLaunchTests"
+                  moduleName = "ProyectoUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vero/Documents/keepcoding/fundamentosIOS/04.IOS.FUNDAMENTOS-main/Proyecto/IOS-Fundamentos-Keepcoding/ProyectoUITests/ProyectoUITestsLaunchTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "FB1F3027-C658-42BA-8A7F-790AD13FC21D - 7bca5356566af4e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoUITests.ProyectoUITestsLaunchTests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; ProyectoUITests.ProyectoUITestsLaunchTests"
+                  moduleName = "ProyectoUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vero/Documents/keepcoding/fundamentosIOS/04.IOS.FUNDAMENTOS-main/Proyecto/IOS-Fundamentos-Keepcoding/ProyectoUITests/ProyectoUITestsLaunchTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "FB1F3027-C658-42BA-8A7F-790AD13FC21D - 641b445b5b623e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoUITests.ProyectoUITestsLaunchTests.__allocating_init(selector: ObjectiveC.Selector) -&gt; ProyectoUITests.ProyectoUITestsLaunchTests"
+                  moduleName = "ProyectoUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vero/Documents/keepcoding/fundamentosIOS/04.IOS.FUNDAMENTOS-main/Proyecto/IOS-Fundamentos-Keepcoding/ProyectoUITests/ProyectoUITestsLaunchTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "FB1F3027-C658-42BA-8A7F-790AD13FC21D - ed57609616d78e02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoUITests.ProyectoUITestsLaunchTests.init(selector: ObjectiveC.Selector) -&gt; ProyectoUITests.ProyectoUITestsLaunchTests"
+                  moduleName = "ProyectoUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vero/Documents/keepcoding/fundamentosIOS/04.IOS.FUNDAMENTOS-main/Proyecto/IOS-Fundamentos-Keepcoding/ProyectoUITests/ProyectoUITestsLaunchTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "FB1F3027-C658-42BA-8A7F-790AD13FC21D - 3cf6ba3826419975"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoUITests.ProyectoUITestsLaunchTests.__allocating_init() -&gt; ProyectoUITests.ProyectoUITestsLaunchTests"
+                  moduleName = "ProyectoUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vero/Documents/keepcoding/fundamentosIOS/04.IOS.FUNDAMENTOS-main/Proyecto/IOS-Fundamentos-Keepcoding/ProyectoUITests/ProyectoUITestsLaunchTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "7">
+               </Location>
+               <Location
+                  uuid = "FB1F3027-C658-42BA-8A7F-790AD13FC21D - 645d04039452e40b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoUITests.ProyectoUITestsLaunchTests.init() -&gt; ProyectoUITests.ProyectoUITestsLaunchTests"
+                  moduleName = "ProyectoUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vero/Documents/keepcoding/fundamentosIOS/04.IOS.FUNDAMENTOS-main/Proyecto/IOS-Fundamentos-Keepcoding/ProyectoUITests/ProyectoUITestsLaunchTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "FB1F3027-C658-42BA-8A7F-790AD13FC21D - 128984b2ae6a6b72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoUITests.ProyectoUITestsLaunchTests.__deallocating_deinit"
+                  moduleName = "ProyectoUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vero/Documents/keepcoding/fundamentosIOS/04.IOS.FUNDAMENTOS-main/Proyecto/IOS-Fundamentos-Keepcoding/ProyectoUITests/ProyectoUITestsLaunchTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19C014BF-4827-4F44-818B-556735C77C80"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoTests/HeroeTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "testHeroeId()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1CF7C00C-1596-4153-AB3A-4EC4ADF5FE2A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoTests/HeroeTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "HeroeTests"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D20724E6-D039-4E6F-9B69-1A75775176AC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoTests/HeroeTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "testHeroePhoto()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "872BA555-E9E6-495F-9CE7-ADF7EAA0F5B2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectoTests/TransformationTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "testTransformationPhoto()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "872BA555-E9E6-495F-9CE7-ADF7EAA0F5B2 - c58c5af47e5de5dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoTests.TransformationTests.testTransformationPhoto() -&gt; ()"
+                  moduleName = "ProyectoTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vero/Documents/keepcoding/fundamentosIOS/04.IOS.FUNDAMENTOS-main/Proyecto/IOS-Fundamentos-Keepcoding/ProyectoTests/TransformationTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "1318">
+               </Location>
+               <Location
+                  uuid = "872BA555-E9E6-495F-9CE7-ADF7EAA0F5B2 - c58c5af47e5de61e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoTests.TransformationTests.testTransformationPhoto() -&gt; ()"
+                  moduleName = "ProyectoTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vero/Documents/keepcoding/fundamentosIOS/04.IOS.FUNDAMENTOS-main/Proyecto/IOS-Fundamentos-Keepcoding/ProyectoTests/TransformationTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1318">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
